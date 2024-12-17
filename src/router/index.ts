@@ -11,10 +11,10 @@ import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
 // Vue.use(VueToast);
 
 // Definisikan tipe untuk data token yang didekode
-interface DecodedToken {
-  role: string;
-  // Tambahkan properti lain dari token jika diperlukan
-}
+// interface DecodedToken {
+//   role: string;
+//   // Tambahkan properti lain dari token jika diperlukan
+// }
 
 // //Fungsi untuk mendekode token
 // function decodeToken(token: string): DecodedToken {
