@@ -2,7 +2,7 @@
     "rewrites": [
       { 
         "source": "/(.*)", 
-        "destination": "https://backend-health-helper.vercel.app/" 
+        "destination": "https://frontend-health-helper.vercel.app/" 
       }
     ]
   }
