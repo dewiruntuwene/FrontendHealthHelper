@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      { 
+        "source": "/(.*)", 
+        "destination": "https://7j549d0c-5000.asse.devtunnels.ms/" 
+      }
+    ]
+  }
