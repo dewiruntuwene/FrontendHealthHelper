@@ -114,9 +114,15 @@
             <div class="ml-10 flex items-baseline space-x-4">
 
               <router-link
-                to="/Profile"
+                to="/Planner"
                 class="text-gray-800 hover:text-gray-600"
-                >Planner</router-link
+                >Dashboard</router-link
+              >
+
+              <router-link
+                to="/Chat"
+                class="text-gray-800 hover:text-gray-600"
+                >Konsultasi</router-link
               >
 
               <router-link
