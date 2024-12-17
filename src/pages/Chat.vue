@@ -50,7 +50,7 @@ const sendMessage = async () => {
 
 <template>
   <Navbar />
-  <body class="h-screen overflow-hidden flex items-center justify-center" style="background: #edf2f7;">
+  <body class="h-screen overflow-hidden flex items-center justify-center mt-16" style="background: #edf2f7;">
     <div class="flex h-screen antialiased text-gray-800 mt-32 mb-24">
       <div class="flex flex-col flex-auto h-full p-6">
         <div class="flex flex-col flex-auto flex-shrink-0 rounded-2xl bg-gray-100 h-full p-4">
